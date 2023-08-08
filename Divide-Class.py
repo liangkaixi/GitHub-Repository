@@ -414,4 +414,4 @@ if __name__ == '__main__':
             sheet.write(row_number, i + 1, str(lv[i]))
         row_number = row_number + 1
     workbook.save('Finall_plan.xls')
-    input('\n\n分班结束，分班结果处于代码目录下的 Finall_plan.xls 中，按回车结束程序')
+    input('\n\n分班结束，分班结果处于代码目录下的 Finall_plan.xls 中，按回车结束程序....')
